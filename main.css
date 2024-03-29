@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: #f0f0f0;  /* Change color as desired */
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;  /* Adjust font size */
+  margin-bottom: 10px;  /* Add spacing below the heading */
+}
+
+p {
+  font-size: 1.2em;  /* Adjust paragraph font size */
+  line-height: 1.5;  /* Increase line spacing for readability */
+}
+img {
+  max-width: 100%;  /* Scale images to fit container */
+  margin: 10px auto;  /* Center images with some margin */
+}
+nav {
+  background-color: #eee;  /* Set background color */
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;  /* Remove default bullet points */
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;  /* Display navigation items inline */
+  margin-right: 20px;  /* Add spacing between navigation items */
+}
+
+nav a {
+  text-decoration: none;  /* Remove underline from links */
+  color: black;  /* Set link color */
+}
+
+nav a:hover {
+  color: #333;  /* Change link color on hover */
+}
